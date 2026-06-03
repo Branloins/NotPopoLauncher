@@ -1,5 +1,5 @@
 # NotPopoLauncher
-Tera classic linux compatible launcher
+Tera classic linux compatible launcher grab it from releases
 
 the tera classic game folder cannot contain spaces or special characters on linux
 the NotPopoLauncer needs to be placed at the root of the folder next to Launcer.exe
