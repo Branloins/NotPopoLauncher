@@ -3,7 +3,7 @@
 A Linux-compatible alternative launcher for TERA Classic. You can grab the latest version from the **Releases** section.
 
 ## ⚠️ Important Requirements for Linux
-* **No Special Characters:** The TERA Classic game folder path **cannot** contain any spaces, special characters, or symbols on Linux. Keep the directory names simple (e.g., `/home/user/Games/TeraClassic`).
+* **No Special Characters:** The TERA Classic game folder path **cannot** contain any spaces, special characters, or symbols on Linux. Keep the directory names simple (e.g., `TeraClassic`).
 * **Placement:** Place the `NotPopoLauncher.exe` file directly into the root of your game folder, right next to the original `Launcher.exe`. 
   * *Note:* If you do not have the official tera classic `Launcher.exe` yet, this launcher will automatically download it for you upon startup.
 
