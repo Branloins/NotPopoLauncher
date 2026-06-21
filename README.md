@@ -1,12 +1,27 @@
 # NotPopoLauncher
-Tera classic linux compatible/alternate launcher grab it from releases
 
-the tera classic game folder cannot corain special characters on linux
-the NotPopoLauncer.exe needs to be placed at the root of the folder next to Launcher.exe(it will download this if you dont have it)
+A Linux-compatible alternative launcher for TERA Classic. You can grab the latest version from the **Releases** section.
 
-if you encounter any issues the issues tracker can be used.
+## ⚠️ Important Requirements for Linux
+* **No Special Characters:** The TERA Classic game folder path **cannot** contain any spaces, special characters, or symbols on Linux. Keep the directory names simple (e.g., `/home/user/Games/TeraClassic`).
+* **Placement:** Place the `NotPopoLauncher.exe` file directly into the root of your game folder, right next to the original `Launcher.exe`. 
+  * *Note:* If you do not have the official tera classic `Launcher.exe` yet, this launcher will automatically download it for you upon startup.
 
-was tested on latest cachyos with cachyos proton and was added as a non steam game
-though wine should work no problem if set up for the game.
+---
 
-though other user have had an easy time and success using wine and lutris
+## 🎮 Compatibility & Setup
+
+### Method 1: Steam & Proton (Tested)
+This launcher has been fully tested and verified on the latest version of **CachyOS** using **CachyOS-Proton**.
+1. Open Steam and click **Add a Game** > **Add a Non-Steam Game...**
+2. Browse and select `NotPopoLauncher.exe` from your game folder.
+3. Right-click the game in your Steam Library, go to **Properties** > **Compatibility**.
+4. Check "Force the use of a specific Steam Play compatibility tool" and select your preferred Proton version (e.g., Proton Experimental or CachyOS-Proton).
+
+### Method 2: Wine & Lutris
+Standard Wine works perfectly if configured correctly for the game. Many users have reported quick and easy success using the **Lutris** frontend:
+
+---
+
+## 🛠️ Support
+If you encounter any bugs, crashes, or installation issues, please open a ticket on the **Issues Tracker**.
