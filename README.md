@@ -16,7 +16,7 @@ This launcher has been fully tested and verified on the latest version of **Cach
 1. Open Steam and click **Add a Game** > **Add a Non-Steam Game...**
 2. Browse and select `NotPopoLauncher.exe` from your game folder.
 3. Right-click the game in your Steam Library, go to **Properties** > **Compatibility**.
-4. Check "Force the use of a specific Steam Play compatibility tool" and select your preferred Proton version (e.g., Proton Experimental or CachyOS-Proton).
+4. Check "Force the use of a specific Steam Play compatibility tool" and select your preferred Proton version (e.g., Proton ge or CachyOS-Proton).
 
 ### Method 2: Wine & Lutris
 Standard Wine works perfectly if configured correctly for the game. Many users have reported quick and easy success using the **Lutris** frontend:
