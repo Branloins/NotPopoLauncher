@@ -23,5 +23,8 @@ Standard Wine works perfectly if configured correctly for the game. Many users h
 
 ---
 
+## Discord RPC
+if you want discord rpc to work on linux please install https://github.com/enderice2/rpc-bridge or a similar bridge
+
 ## 🛠️ Support
 If you encounter any bugs, crashes, or installation issues, please open a ticket on the **Issues Tracker**.
